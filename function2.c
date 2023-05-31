@@ -175,4 +175,8 @@ int print_rot13string(va_list types, char buffer[],
 		}
 	}
 	return (count);
+<<<<<<< HEAD
 }
+=======
+}	
+>>>>>>> eaa20b0c14b42aeef675f009b29c2c3bf49c210b
